@@ -8,9 +8,8 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://ksbuoregon.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by ksbuoregon
-
 ### ©️2019 Run Buddy, Inc 
